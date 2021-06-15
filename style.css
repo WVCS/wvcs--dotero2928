@@ -36,5 +36,8 @@ body {
  
 }
 .flower {
-  width: 9.76%
+  width: 9.76%;
+}
+.image {
+  text-align: center;
 }
